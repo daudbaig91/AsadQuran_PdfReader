@@ -4,7 +4,7 @@ PdfReader
 Pdf viewer for a specific book (The quran) out of production in the 1980’s with certain features added on request. In this app I have used custom sliding/swiping fragments with bottom tab layout for navigation, used basic translating and rotating animation with floating buttons for an aesthetic look. Initially used custom recycler views to display pdf pages, later changed and used the android pdf viewer library as it incorporated many pdf functionalities such as a smooth pinch zooming and fit. The app includes functionality such as bookmarks and chapters page where users can add data through custom dialog boxes, last read page is saved in shared preferences an access through a “resume” floating button. User can navigate to a page using search bar.
 In this program i have focused in fixing as many bugs and catching and filtering all type of user inputs for minimal crashing.
 
-Thanks For Reading; //:)
+Thanks For Reading;  // :)
 
 
 
