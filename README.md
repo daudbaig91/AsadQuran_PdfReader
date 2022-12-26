@@ -37,3 +37,9 @@ Thanks For Reading; //:)
 <br clear="left"/>
 
 (Drawables and assets not uploaded to git due to size and some error while pushing to git.)
+
+
+Few more functionalities to be implemented:
+*File Loading
+*PDF chooser from app local pdf library.
+*Implemented surah adder and list items modifier.
